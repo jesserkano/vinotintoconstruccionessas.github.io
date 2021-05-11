@@ -1,4 +1,4 @@
-
+@media screen and (max-width: 481px){
 
 body {
   font-family: 'Poppins', sans-serif;
@@ -1330,4 +1330,5 @@ footer .contact-form button.filled-button:hover {
 		color: #921224!important;
 		border-bottom: none!important;
 	}
+}
 }
